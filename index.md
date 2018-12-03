@@ -46,9 +46,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
+<h4>
+Don't forget to put in  
+<a href="{{site.amy_site}}/submit">this workshop request form</a> to let Carpentries know about your workshop
 and our administrator may contact you if we need any extra information.</h4>
 
 <h2 id="general">General Information</h2>
@@ -142,11 +142,13 @@ and our administrator may contact you if we need any extra information.</h4>
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
-</p>
+  </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
+	<li>We will amplify our voices</li>
+	<li>This facility is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
+	<li>There is a gender-inclusive restroom on the 1st floor of the Library</li>
+	
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
